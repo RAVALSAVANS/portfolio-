@@ -10,7 +10,7 @@ import vscodeLogo from './assets/tech_logo/vscode.png';
 import PsdLogo from './assets/tech_logo/PSD.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
-import WordpressLogo from './assets/tech_logo/wordpress.png';
+import WordpressLogo from './assets/tech_logo/WordPress.png';
 import LessLogo from './assets/tech_logo/less.png';
 import MagetoLogo from './assets/tech_logo/magento2.jpg';
 // Experience Section Logo's
