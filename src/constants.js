@@ -7,7 +7,7 @@ import reactjsLogo from './assets/tech_logo/reactjs.png';
 import bootstrapLogo from './assets/tech_logo/bootstrap.png';
 import githubLogo from './assets/tech_logo/github.png';
 import vscodeLogo from './assets/tech_logo/vscode.png';
-import PsdLogo from './assets/tech_logo/psd.png';
+import PsdLogo from './assets/tech_logo/PSD.png';
 import figmaLogo from './assets/tech_logo/figma.png';
 import netlifyLogo from './assets/tech_logo/netlify.png';
 import WordpressLogo from './assets/tech_logo/wordpress.png';
