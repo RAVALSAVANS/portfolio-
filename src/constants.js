@@ -28,7 +28,7 @@ import advancedprofessional from './assets/work_logo/advancedprofessional.png';
 import CWS from './assets/work_logo/cws.png';
 import E3roofing from './assets/work_logo/E3roofing.png';
 import nexora from './assets/work_logo/nexora.png';
-
+import intercall from './assets/work_logo/intercall.png'
 
 export const SkillsInfo = [
   {
@@ -182,7 +182,16 @@ export const SkillsInfo = [
     webapp: "https://phpstack-1456659-5533839.cloudwaysapps.com/stella-footwear/",
   },
    {
-    id: 7,
+  id: 7,
+  title: "intercall Systems",
+  description: "Custom WordPress website redesign for Intercall Systems. Developed a fully responsive and SEO-friendly website with dynamic content management using ACF Pro. Implemented custom sections, client logo slider, service inquiry and contact forms using Contact Form 7, blog and team pages, and interactive UI elements with JavaScript/jQuery. Focused on performance optimization, mobile-first design, and fast loading for an enhanced user experience. Tech: WordPress, PHP, HTML5, CSS3, JavaScript/jQuery, ACF Pro, Contact Form 7.",
+  image: intercall,
+  tags: ["WordPress", "PHP", "HTML5", "CSS3", "JavaScript", "ACF Pro"],
+  github: "https://github.com/RAVALSAVANS/intercall-system-",
+  webapp: "http://bboosters.com/bbexmarketing/Intercall-Systems/CMS/",
+},
+   {
+    id: 8,
     title: "Nexora ai",
     description:
       "A clean and responsive Nexora ai landing page created using react js ,Tailwind CSS . Features modern UI components, smooth animations, and mobile-friendly layouts.",
@@ -190,5 +199,4 @@ export const SkillsInfo = [
     tags: ["React js ","Tailwind CSS","vite"],
     webapp: "https://nexora-ai2.netlify.app/",
   },
- 
   ];  
