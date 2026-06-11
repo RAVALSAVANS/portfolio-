@@ -197,6 +197,7 @@ export const SkillsInfo = [
       "A clean and responsive Nexora ai landing page created using react js ,Tailwind CSS . Features modern UI components, smooth animations, and mobile-friendly layouts.",
     image: nexora,
     tags: ["React js ","Tailwind CSS","vite"],
-    webapp: "https://nexora-ai2.netlify.app/",
+     github: "https://github.com/RAVALSAVANS/nexora-ai",
+    webapp: "https://nexora-ai-version2.vercel.app/",
   },
   ];  
